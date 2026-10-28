@@ -15,6 +15,7 @@ public class StudentInformationSystem {
         // Display student information
         System.out.println("Student Name: Nur Zarith Sofea Binti Meor Zulkarnain");
         System.out.println("Student ID: S86989");
+        System.out.println("Programme: Bachelor of Computer Science");
         // Store the marks and calculate the total
         int mark1 = 40;
         int mark2 = 45;
